@@ -1,0 +1,63 @@
+let words = {
+	word: [
+		"unbelievable",
+		"whereabout",
+		"could I",
+		"fill in",
+		"mother tongue",
+		"desk",
+		"wedding",
+		"weak",
+		"employee",
+		"depended",
+		"invaded",
+		"inherit",
+		"restricted",
+		"appear",
+"supply",
+"spare",
+"seldom"
+
+		],
+	translate: [
+		"невероятно",
+		"где именно",
+		"Мог бы я",
+		"заполнить",
+		"родной язык",
+		"стол рабочий",
+		"свадьба",
+		"слабый",
+		"сотрудник",
+		"зависеть",
+		"вторгаться",
+		"наследовать",
+		"ограниченый",
+		"появляться",
+"поставка",
+"запасной",
+"редко"
+		],
+	komment: [
+		"",
+		"Whereabout in Italy you leave",
+		"Could I have your adress?",
+		"I can fill in a form",
+		"",
+		"",
+		"",
+		"weak vocabulary",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"appear suddenly / появиться внезапно",
+"",
+"spare parts / запчасти",
+"а often - часто)"
+		]
+};
+
+
+
