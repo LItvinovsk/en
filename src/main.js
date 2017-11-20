@@ -39,6 +39,6 @@ tbody.insertBefore(tr, tbody.firstChild);
 
 
 
-document.getElementsByClassName("cbalink")[0].remove()
+//document.getElementsByClassName("cbalink")[0].remove()
 }
 
