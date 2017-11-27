@@ -51,12 +51,12 @@ let words = {
 "that pencil",
 "those pencils",
 "",
-"произношение",
-"дорогой",
-"будьте здоровы",
-"будьмо",
-"скушно",
-"грустный",
+"pronunciation",
+"expensive",
+"bless you",
+"cheers",
+"bored",
+"sad",
 
 		],
 	translate: [
@@ -111,13 +111,12 @@ let words = {
 "тот карандаш",
 "те карандааши",
 "",
-"pronunciation",
-"expensive",
-"bless you",
-"cheers",
-"bored",
-"sad",
-
+"произношение",
+"дорогой",
+"будьте здоровы",
+"будьмо",
+"скушно",
+"грустный",
 
 		],
 	komment: [
