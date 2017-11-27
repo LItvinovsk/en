@@ -14,8 +14,8 @@ tbody.insertBefore(tr, tbody.firstChild);
 			let tdw = document.getElementById(td1);			
 			if(tdw.firstChild == but){
 				but.style.visibility = "hidden";
-				but.style.height = "5px";
-				tr.style.backgroundColor = "grey"
+				but.style.height = "1px";
+				tr.style.backgroundColor = "#BDBDBD"
 				console.log(tr)
 			};
 			but.addEventListener("click", Say)
