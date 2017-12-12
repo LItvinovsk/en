@@ -27,25 +27,6 @@ tbody.insertBefore(tr, tbody.firstChild);
 		responsiveVoice.speak(word, "UK English Female", {rate: 0.9});
 	};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //document.getElementsByClassName("cbalink")[0].remove()
 }
 
